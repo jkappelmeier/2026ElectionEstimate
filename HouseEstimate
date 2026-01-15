@@ -1,4 +1,4 @@
-ElectionName,DemCandidate,RepCandidate,Estimate,Var5
+ElectionName,DemCandidate,RepCandidate,Estimate,Chance
 Alabama-01,[Generic Democrat]?,[Generic Republican]?,0.2569,0
 Alabama-02,Shomari Figure*? (D),[Generic Republican]?,0.5769,0.9936
 Alabama-03,[Generic Democrat]?,Mike Rogers*? (R),0.2951,0
