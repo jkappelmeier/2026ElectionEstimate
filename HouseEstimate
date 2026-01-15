@@ -1,5 +1,5 @@
 ElectionName,DemCandidate,RepCandidate,Estimate,Chance
-Alabama-01,[Generic Democrat]?,[Generic Republican]?,0.2569,0
+Alabama-01,[Generic Democrat]?,[Generic Republican]?,0.2569,0.0
 Alabama-02,Shomari Figure*? (D),[Generic Republican]?,0.5769,0.9936
 Alabama-03,[Generic Democrat]?,Mike Rogers*? (R),0.2951,0
 Alabama-04,[Generic Democrat]?,Robert Aderholt*? (R),0.1962,0
@@ -7,7 +7,7 @@ Alabama-05,[Generic Democrat]?,Dale Strong*? (R),0.3822,0.0003
 Alabama-06,[Generic Democrat]?,Gary Palmer*? (R),0.3288,0
 Alabama-07,Terri Sewell*? (D),[Generic Republican]?,0.661,1
 Alaska-00,Matt Schultz? (D),Nick Begich III*? (R),0.4946,0.4314
-Arizona-01,Marlene Gal·n-Woods? (D),Gina Swoboda* (R),0.5181,0.7192
+Arizona-01,Marlene Gal√°n-Woods? (D),Gina Swoboda* (R),0.5181,0.7192
 Arizona-02,[Generic Democrat]?,Eli Crane*? (R),0.4793,0.2505
 Arizona-03,Yassamin Ansari*? (D),[Generic Republican]?,0.7486,1
 Arizona-04,Greg Stanton*? (D),[Generic Republican]?,0.5606,0.9728
@@ -60,10 +60,10 @@ California-37,Sydney Kamlager-Dove*? (D),[Generic Republican]?,0.8493,1
 California-38,[Generic Democrat]?,[Generic Republican]?,0.5964,0.9989
 California-39,Mark Takano*? (D),[Generic Republican]?,0.5851,0.9968
 California-40,[Generic Democrat]?,Young Kim*? (R),0.4335,0.0167
-California-41,Linda S·nchez*? (D),[Generic Republican]?,0.6916,1
+California-41,Linda S√°nchez*? (D),[Generic Republican]?,0.6916,1
 California-42,Robert Garcia*? (D),[Generic Republican]?,0.6011,0.9994
 California-43,Maxine Waters*? (D),[Generic Republican]?,0.775,1
-California-44,Nanette Barrag·n*? (D),[Generic Republican]?,0.7345,1
+California-44,Nanette Barrag√°n*? (D),[Generic Republican]?,0.7345,1
 California-45,Derek Tran*? (D),[Generic Republican]?,0.5473,0.934
 California-46,Lou Correa*? (D),[Generic Republican]?,0.6382,1
 California-47,Dave Min*? (D),[Generic Republican]?,0.5766,0.9928
@@ -111,9 +111,9 @@ Florida-22,Lois Frankel*? (D),[Generic Republican]?,0.5715,0.9892
 Florida-23,Jared Moskowitz*? (D),[Generic Republican]?,0.5481,0.9378
 Florida-24,Frederica Wilson*? (D),[Generic Republican]?,0.7009,1
 Florida-25,Debbie Wasserman Shultz*? (D),[Generic Republican]?,0.5666,0.9837
-Florida-26,[Generic Democrat]?,Mario DÌaz-Balart*? (R),0.3308,0
-Florida-27,Richard Lamondin? (D),MarÌa Elvira Salazar*? (R),0.4356,0.0181
-Florida-28,[Generic Democrat]?,Carlos A. GimÈnez*? (R),0.3896,0.0002
+Florida-26,[Generic Democrat]?,Mario D√≠az-Balart*? (R),0.3308,0
+Florida-27,Richard Lamondin? (D),Mar√≠a Elvira Salazar*? (R),0.4356,0.0181
+Florida-28,[Generic Democrat]?,Carlos A. Gim√©nez*? (R),0.3896,0.0002
 Georgia-01,[Generic Democrat]?,[Generic Republican]?,0.4551,0.0754
 Georgia-02,Sanford Bishop*? (D),[Generic Republican]?,0.5851,0.9971
 Georgia-03,[Generic Democrat]?,Brian Jack*? (R),0.3675,0
@@ -155,7 +155,7 @@ Indiana-03,[Generic Democrat]?,Marlin Stutzman*? (R),0.3543,0
 Indiana-04,[Generic Democrat]?,Jim Baird*? (R),0.3604,0
 Indiana-05,[Generic Democrat]?,Victoria Spartz*? (R),0.4342,0.0152
 Indiana-06,[Generic Democrat]?,Jefferson Shreve*? (R),0.3563,0
-Indiana-07,AndrÈ Carson*? (D),[Generic Republican]?,0.7298,1
+Indiana-07,Andr√© Carson*? (D),[Generic Republican]?,0.7298,1
 Indiana-08,[Generic Democrat]?,Mark Messmer*? (R),0.3322,0
 Indiana-09,[Generic Democrat]?,Erin Houchin*? (R),0.3695,0
 Iowa-01,Christina Bohannan? (D),Mariannette*? (R),0.5181,0.7237
@@ -262,7 +262,7 @@ New York-03,Tom Suozzi*? (D),[Generic Republican]?,0.5321,0.8486
 New York-04,Laura Gillen*? (D),[Generic Republican]?,0.5398,0.9047
 New York-05,Gregory Meeks*? (D),[Generic Republican]?,0.7485,1
 New York-06,Grace Meng*? (D),[Generic Republican]?,0.6195,0.9999
-New York-07,Nydia Vel·zquez*? (D),[Generic Republican]?,0.7661,1
+New York-07,Nydia Vel√°zquez*? (D),[Generic Republican]?,0.7661,1
 New York-08,Hakeem Jeffries*? (D),[Generic Republican]?,0.7698,1
 New York-09,Yvette Clarke*? (D),[Generic Republican]?,0.7565,1
 New York-10,Dan Goldman*? (D),[Generic Republican]?,0.8613,1
@@ -434,3 +434,4 @@ Wisconsin-06,[Generic Democrat]?,Glenn Grothman*? (R),0.4227,0.0059
 Wisconsin-07,[Generic Democrat]?,[Generic Republican]?,0.4206,0.0053
 Wisconsin-08,[Generic Democrat]?,Tony Wied*? (R),0.4483,0.0459
 Wyoming-00,[Generic Democrat]?,[Generic Republican]?,0.2824,0
+
