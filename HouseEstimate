@@ -172,12 +172,12 @@ KY-03	McGarvey	TBD	0.6387	1	0	1	0	D	R	0	1
 KY-04	TBD	Massie	0.3461	0	0	0	1	D	R	1	0
 KY-05	Pillersdorf	Rogers	0.2072	0	0	0	1	D	R	0	0
 KY-06	TBD	TBD	0.4578	0.0866	0	0	0	D	R	1	1
-LA-01	Democrats	Republicans	0.2903	0	0	0	1	D	R	0	0
-LA-02	Democrats	Republicans	0.7237	1	0	1	0	D	R	0	0
-LA-03	Democrats	Republicans	0.2877	0	0	0	1	D	R	0	0
-LA-04	Democrats	Republicans	0.2666	0	0	0	1	D	R	0	0
-LA-05	Democrats	Republicans	0.3065	0	0	0	1	D	R	0	0
-LA-06	Democrats	Republicans	0.6416	1	0	1	0	D	R	0	0
+LA-01	Democratic field	Republican field	0.2903	0	0	0	1	D	R	0	0
+LA-02	Democratic field	Republican field	0.7237	1	0	1	0	D	R	0	0
+LA-03	Democratic field	Republican field	0.2877	0	0	0	1	D	R	0	0
+LA-04	Democratic field	Republican field	0.2666	0	0	0	1	D	R	0	0
+LA-05	Democratic field	Republican field	0.3065	0	0	0	1	D	R	0	0
+LA-06	Democratic field	Republican field	0.6416	1	0	1	0	D	R	0	0
 ME-01	Pingree	TBD	0.6417	1	0	1	0	D	R	0	1
 ME-02	Baldacci	LePage	0.4901	0.3669	1	0	0	D	R	0	0
 MD-01	TBD	Harris	0.4212	0.0054	0	0	1	D	R	1	0
