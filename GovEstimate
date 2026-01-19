@@ -1,0 +1,37 @@
+GeographyName	ElectionName	DemCandidate	RepCandidate	Estimate	Chance	Flip	DemIncumbent	RepIncumbent	DemParty	RepParty	DemConfirmed	RepConfirmed
+Alabama	Alabama	Jones	Tuberville	0.3895	0.0722	0	0	0	D	R	0	0
+Alaska	Alaska	TBD	TBD	0.4739	0.3985	0	0	0	D	R	1	1
+Arizona	Arizona	Hobbs	TBD	0.58	0.8599	0	1	0	D	R	0	1
+Arkansas	Arkansas	TBD	Sanders	0.3699	0.0795	0	0	0	D	R	1	0
+California	California	TBD	TBD	0.6463	0.9281	0	0	0	D	R	1	1
+Colorado	Colorado	TBD	TBD	0.5991	0.8383	0	0	0	D	R	1	1
+Connecticut	Connecticut	Lamont	Stewart	0.6387	0.9347	0	1	0	D	R	0	0
+Florida	Florida	Jolly	Donalds	0.4787	0.4157	0	0	0	D	R	0	0
+Georgia	Georgia	TBD	TBD	0.5331	0.6291	1	0	0	D	R	1	1
+Hawaii	Hawaii	Green	TBD	0.6985	0.9837	0	1	0	D	R	0	1
+Idaho	Idaho	TBD	Little	0.2871	0.0109	0	0	0	D	R	1	0
+Illinois	Illinois	Pritzker	Bailey	0.6338	0.9632	0	1	0	D	R	0	0
+Iowa	Iowa	Sand	Feenstra	0.4761	0.4062	0	0	0	D	R	0	0
+Kansas	Kansas	TBD	TBD	0.4617	0.3514	1	0	0	D	R	1	1
+Maine	Maine	TBD	TBD	0.5797	0.7852	0	0	0	D	R	1	1
+Maryland	Maryland	Moore	TBD	0.7311	0.994	0	1	0	D	R	0	1
+Massachusetts	Massachusetts	Healey	Shortsleeve	0.7116	0.9894	0	1	0	D	R	0	0
+Michigan	Michigan	Benson	James	0.5095	0.5506	0	0	0	D	R	0	0
+Minnesota	Minnesota	TBD	TBD	0.5635	0.7371	0	0	0	D	R	1	1
+Nebraska	Nebraska	TBD	Pillen	0.3977	0.1334	0	0	0	D	R	1	0
+Nevada	Nevada	TBD	Lombardo	0.5022	0.5115	1	0	0	D	R	1	0
+New Hampshire	New Hampshire	TBD	Ayotte	0.4859	0.4399	0	0	0	D	R	1	0
+New Mexico	New Mexico	TBD	TBD	0.5764	0.7756	0	0	0	D	R	1	1
+New York	New York	Hochul	TBD	0.63	0.9599	0	1	0	D	R	0	1
+Ohio	Ohio	Acton	Ramaswamy	0.4986	0.4924	0	0	0	D	R	0	0
+Oklahoma	Oklahoma	TBD	TBD	0.3688	0.0964	0	0	0	D	R	1	1
+Oregon	Oregon	Kotek	TBD	0.6094	0.8832	0	1	0	D	R	0	1
+Pennsylvania	Pennsylvania	Shapiro	Garrity	0.6175	0.8998	0	1	0	D	R	0	0
+Rhode Island	Rhode Island	McKee	TBD	0.6577	0.9559	0	1	0	D	R	0	1
+South Carolina	South Carolina	TBD	TBD	0.4556	0.3294	0	0	0	D	R	1	1
+South Dakota	South Dakota	TBD	Rhoden	0.3736	0.0874	0	0	0	D	R	1	0
+Tennessee	Tennessee	Green	Blackburn	0.3939	0.1449	0	0	0	D	R	0	0
+Texas	Texas	TBD	Abbott	0.454	0.3083	0	0	0	D	R	1	0
+Vermont	Vermont	TBD	Scott	0.3939	0.1279	0	0	0	D	R	1	0
+Wisconsin	Wisconsin	Barnes	Tiffany	0.5377	0.6466	0	0	0	D	R	0	0
+Wyoming	Wyoming	TBD	TBD	0.3091	0.0298	0	0	0	D	R	1	1
