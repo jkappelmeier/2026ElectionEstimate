@@ -1,25 +1,25 @@
 GeographyName	ElectionName	DemCandidate	RepCandidate	Estimate	Chance	Flip	DemIncumbent	RepIncumbent	DemParty	RepParty	DemConfirmed	RepConfirmed
 Alabama	Alabama	TBD	TBD	0.3938	0.0269	0	0	0	D	R	1	1
-Alaska	Alaska	TBD	Sullivan	0.4497	0.1623	0	0	1	D	R	1	0
+Alaska	Alaska	TBD	Sullivan	0.4497	0.1624	0	0	1	D	R	1	0
 Arkansas	Arkansas	TBD	Cotton	0.3727	0.0125	0	0	1	D	R	1	0
 Colorado	Colorado	Hickenlooper	TBD	0.6009	0.9798	0	1	0	D	R	0	1
 Delaware	Delaware	Coons	TBD	0.6313	0.9947	0	1	0	D	R	0	1
-Georgia	Georgia	Ossoff	TBD	0.5364	0.7694	0	1	0	D	R	0	1
-Idaho	Idaho	TBD	Risch	0.346	0.0011	0	0	1	D	R	1	0
+Georgia	Georgia	Ossoff	TBD	0.5364	0.7693	0	1	0	D	R	0	1
+Idaho	Idaho	TBD	Risch	0.3461	0.0011	0	0	1	D	R	1	0
 Illinois	Illinois	TBD	TBD	0.6046	0.9743	0	0	0	D	R	1	1
-Iowa	Iowa	TBD	TBD	0.4831	0.3807	0	0	0	D	R	1	1
+Iowa	Iowa	TBD	TBD	0.4831	0.3808	0	0	0	D	R	1	1
 Kansas	Kansas	TBD	Marshall	0.4439	0.1254	0	0	1	D	R	1	0
 Kentucky	Kentucky	Booker	TBD	0.3942	0.0274	0	0	0	D	R	0	1
 Louisiana	Louisiana	TBD	Cassidy	0.3956	0.0175	0	0	1	D	R	1	0
-Maine	Maine	TBD	Collins	0.5179	0.6394	1	0	1	D	R	1	0
+Maine	Maine	TBD	Collins	0.5179	0.6395	1	0	1	D	R	1	0
 Massachusetts	Massachusetts	Markey	TBD	0.6881	0.9999	0	1	0	D	R	0	1
 Michigan	Michigan	TBD	TBD	0.5416	0.7787	0	0	0	D	R	1	1
 Minnesota	Minnesota	TBD	TBD	0.5713	0.9056	0	0	0	D	R	1	1
 Mississippi	Mississippi	TBD	Hyde-Smith	0.4293	0.0796	0	0	1	D	R	1	0
 Montana	Montana	TBD	Daines	0.4377	0.1088	0	0	1	D	R	1	0
-Nebraska	Nebraska	Osborn	Ricketts	0.4296	0.0493	0	0	1	I	R	1	0
+Nebraska	Nebraska	Osborn	Ricketts	0.4297	0.0494	0	0	1	I	R	1	0
 New Hampshire	New Hampshire	TBD	TBD	0.5633	0.8707	0	0	0	D	R	1	1
-New Jersey	New Jersey	Booker	TBD	0.5947	0.9735	0	1	0	D	R	0	1
+New Jersey	New Jersey	Booker	TBD	0.5946	0.9735	0	1	0	D	R	0	1
 New Mexico	New Mexico	Luj&#225;n	TBD	0.5752	0.9316	0	1	0	D	R	0	1
 North Carolina	North Carolina	TBD	TBD	0.5316	0.7189	1	0	0	D	R	1	1
 Oklahoma	Oklahoma	TBD	Mullin	0.3665	0.0037	0	0	1	D	R	1	0
