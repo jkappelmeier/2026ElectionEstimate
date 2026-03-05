@@ -1,37 +1,37 @@
 GeographyName	ElectionName	DemCandidate	RepCandidate	Estimate	Chance	Flip	DemIncumbent	RepIncumbent	DemParty	RepParty	DemConfirmed	RepConfirmed
-Alabama	Alabama	TBD	TBD	0.3825	0.1194	0	0	0	D	R	1	1
-Alaska	Alaska	TBD	TBD	0.4662	0.3686	0	0	0	D	R	1	1
-Arizona	Arizona	Hobbs	TBD	0.5404	0.6719	0	1	0	D	R	0	1
+Alabama	Alabama	TBD	TBD	0.3824	0.1193	0	0	0	D	R	1	1
+Alaska	Alaska	TBD	TBD	0.4663	0.3687	0	0	0	D	R	1	1
+Arizona	Arizona	Hobbs	TBD	0.5405	0.6724	0	1	0	D	R	0	1
 Arkansas	Arkansas	Love	Sanders	0.3741	0.0836	0	0	1	D	R	1	1
-California	California	TBD	TBD	0.6347	0.9127	0	0	0	D	R	1	1
-Colorado	Colorado	TBD	TBD	0.5918	0.822	0	0	0	D	R	1	1
-Connecticut	Connecticut	Lamont	TBD	0.6172	0.9012	0	1	0	D	R	0	1
-Florida	Florida	TBD	TBD	0.466	0.3659	0	0	0	D	R	1	1
-Georgia	Georgia	TBD	TBD	0.5253	0.6003	1	0	0	D	R	1	1
-Hawaii	Hawaii	Green	TBD	0.6743	0.9709	0	1	0	D	R	0	1
-Idaho	Idaho	TBD	Little	0.291	0.0112	0	0	1	D	R	1	0
-Illinois	Illinois	Pritzker	TBD	0.6119	0.8916	0	1	0	D	R	1	1
-Iowa	Iowa	TBD	TBD	0.4708	0.385	0	0	0	D	R	1	1
-Kansas	Kansas	TBD	TBD	0.4553	0.3268	1	0	0	D	R	1	1
-Maine	Maine	TBD	TBD	0.5706	0.7595	0	0	0	D	R	1	1
+California	California	TBD	TBD	0.6349	0.9129	0	0	0	D	R	1	1
+Colorado	Colorado	TBD	TBD	0.5919	0.8224	0	0	0	D	R	1	1
+Connecticut	Connecticut	Lamont	TBD	0.6173	0.9013	0	1	0	D	R	0	1
+Florida	Florida	TBD	TBD	0.466	0.366	0	0	0	D	R	1	1
+Georgia	Georgia	TBD	TBD	0.5252	0.5999	1	0	0	D	R	1	1
+Hawaii	Hawaii	Green	TBD	0.6744	0.971	0	1	0	D	R	0	1
+Idaho	Idaho	TBD	Little	0.2912	0.0112	0	0	1	D	R	1	0
+Illinois	Illinois	Pritzker	TBD	0.612	0.8917	0	1	0	D	R	1	1
+Iowa	Iowa	TBD	TBD	0.4708	0.3853	0	0	0	D	R	1	1
+Kansas	Kansas	TBD	TBD	0.4554	0.3271	1	0	0	D	R	1	1
+Maine	Maine	TBD	TBD	0.5706	0.7596	0	0	0	D	R	1	1
 Maryland	Maryland	Moore	TBD	0.7109	0.9896	0	1	0	D	R	0	1
-Massachusetts	Massachusetts	Healey	TBD	0.6902	0.9818	0	1	0	D	R	0	1
-Michigan	Michigan	TBD	TBD	0.5268	0.6064	0	0	0	D	R	1	1
-Minnesota	Minnesota	TBD	TBD	0.5575	0.7188	0	0	0	D	R	1	1
-Nebraska	Nebraska	TBD	Pillen	0.4051	0.1473	0	0	1	D	R	1	0
-Nevada	Nevada	TBD	Lombardo	0.5036	0.5158	1	0	1	D	R	1	0
-New Hampshire	New Hampshire	TBD	Ayotte	0.4925	0.4675	0	0	1	D	R	1	0
-New Mexico	New Mexico	TBD	TBD	0.5642	0.7392	0	0	0	D	R	1	1
-New York	New York	Hochul	TBD	0.5909	0.8424	0	1	0	D	R	0	1
-Ohio	Ohio	Acton	TBD	0.4772	0.4093	0	0	0	D	R	1	1
-Oklahoma	Oklahoma	TBD	TBD	0.3602	0.0811	0	0	0	D	R	1	1
-Oregon	Oregon	Kotek	TBD	0.5863	0.8289	0	1	0	D	R	0	1
-Pennsylvania	Pennsylvania	Shapiro	TBD	0.5955	0.8537	0	1	0	D	R	0	1
-Rhode Island	Rhode Island	McKee	TBD	0.6365	0.9318	0	1	0	D	R	0	1
-South Carolina	South Carolina	TBD	TBD	0.4451	0.2911	0	0	0	D	R	1	1
-South Dakota	South Dakota	TBD	Rhoden	0.3795	0.0952	0	0	1	D	R	1	0
-Tennessee	Tennessee	TBD	TBD	0.3858	0.1255	0	0	0	D	R	1	1
-Texas	Texas	Hinojosa	Abbott	0.4615	0.077	0	0	1	D	R	1	1
-Vermont	Vermont	TBD	Scott	0.3974	0.1328	0	0	1	D	R	1	0
-Wisconsin	Wisconsin	TBD	TBD	0.5312	0.6232	0	0	0	D	R	1	1
+Massachusetts	Massachusetts	Healey	TBD	0.6904	0.9818	0	1	0	D	R	0	1
+Michigan	Michigan	TBD	TBD	0.5269	0.6066	0	0	0	D	R	1	1
+Minnesota	Minnesota	TBD	TBD	0.5576	0.7191	0	0	0	D	R	1	1
+Nebraska	Nebraska	TBD	Pillen	0.4052	0.1477	0	0	1	D	R	1	0
+Nevada	Nevada	TBD	Lombardo	0.5038	0.5166	1	0	1	D	R	1	0
+New Hampshire	New Hampshire	TBD	Ayotte	0.4926	0.4679	0	0	1	D	R	1	0
+New Mexico	New Mexico	TBD	TBD	0.5643	0.7394	0	0	0	D	R	1	1
+New York	New York	Hochul	TBD	0.591	0.8426	0	1	0	D	R	0	1
+Ohio	Ohio	Acton	TBD	0.4772	0.4095	0	0	0	D	R	1	1
+Oklahoma	Oklahoma	TBD	TBD	0.3603	0.0812	0	0	0	D	R	1	1
+Oregon	Oregon	Kotek	TBD	0.5865	0.8292	0	1	0	D	R	0	1
+Pennsylvania	Pennsylvania	Shapiro	TBD	0.5955	0.8538	0	1	0	D	R	0	1
+Rhode Island	Rhode Island	McKee	TBD	0.6367	0.9321	0	1	0	D	R	0	1
+South Carolina	South Carolina	TBD	TBD	0.445	0.2906	0	0	0	D	R	1	1
+South Dakota	South Dakota	TBD	Rhoden	0.3796	0.0953	0	0	1	D	R	1	0
+Tennessee	Tennessee	TBD	TBD	0.3858	0.1254	0	0	0	D	R	1	1
+Texas	Texas	Hinojosa	Abbott	0.4616	0.0797	0	0	1	D	R	1	1
+Vermont	Vermont	TBD	Scott	0.3975	0.1329	0	0	1	D	R	1	0
+Wisconsin	Wisconsin	TBD	TBD	0.5313	0.6236	0	0	0	D	R	1	1
 Wyoming	Wyoming	TBD	TBD	0.3035	0.0254	0	0	0	D	R	1	1
