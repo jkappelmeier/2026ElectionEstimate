@@ -1,36 +1,36 @@
 GeographyName	ElectionName	DemCandidate	RepCandidate	Estimate	Chance	Flip	DemIncumbent	RepIncumbent	DemParty	RepParty	DemConfirmed	RepConfirmed
-Alabama	Alabama	TBD	TBD	0.4043	0.0356	0	0	0	D	R	1	1
-Alaska	Alaska	TBD	Sullivan	0.4625	0.2208	0	0	1	D	R	1	0
-Arkansas	Arkansas	Shoffner	Cotton	0.3875	0.0195	0	0	1	D	R	1	1
-Colorado	Colorado	Hickenlooper	TBD	0.6039	0.9851	0	1	0	D	R	0	1
-Delaware	Delaware	Coons	TBD	0.6343	0.997	0	1	0	D	R	0	1
-Georgia	Georgia	Ossoff	TBD	0.5418	0.8115	0	1	0	D	R	0	1
-Idaho	Idaho	TBD	Risch	0.3585	0.0016	0	0	1	D	R	1	0
-Illinois	Illinois	TBD	TBD	0.6118	0.9839	0	0	0	D	R	1	1
-Iowa	Iowa	TBD	TBD	0.4927	0.4462	0	0	0	D	R	1	1
-Kansas	Kansas	TBD	Marshall	0.4581	0.1821	0	0	1	D	R	1	0
-Kentucky	Kentucky	Booker	TBD	0.4027	0.0345	0	0	0	D	R	0	1
-Louisiana	Louisiana	TBD	Cassidy	0.4097	0.0272	0	0	1	D	R	1	0
-Maine	Maine	TBD	Collins	0.5309	0.7406	1	0	1	D	R	1	0
-Massachusetts	Massachusetts	Markey	TBD	0.689	1	0	1	0	D	R	0	1
-Michigan	Michigan	TBD	TBD	0.5487	0.8222	0	0	0	D	R	1	1
-Minnesota	Minnesota	TBD	TBD	0.5795	0.9341	0	0	0	D	R	1	1
-Mississippi	Mississippi	TBD	Hyde-Smith	0.4447	0.1216	0	0	1	D	R	1	0
-Montana	Montana	TBD	Daines	0.4514	0.1566	0	0	1	D	R	1	0
-Nebraska	Nebraska	Osborn	Ricketts	0.4736	0.1418	0	0	1	I	R	1	0
-New Hampshire	New Hampshire	TBD	TBD	0.5714	0.9045	0	0	0	D	R	1	1
-New Jersey	New Jersey	Booker	TBD	0.596	0.979	0	1	0	D	R	0	1
-New Mexico	New Mexico	Luj&#225;n	TBD	0.578	0.9449	0	1	0	D	R	0	1
-North Carolina	North Carolina	Cooper	Whatley	0.5681	0.9986	1	0	0	D	R	1	1
-Oklahoma	Oklahoma	TBD	Mullin	0.3792	0.0055	0	0	1	D	R	1	0
-Oregon	Oregon	Merkley	TBD	0.6251	0.9958	0	1	0	D	R	0	1
-Rhode Island	Rhode Island	Reed	TBD	0.6544	0.9992	0	1	0	D	R	0	1
-South Carolina	South Carolina	TBD	Graham	0.4571	0.1797	0	0	1	D	R	1	0
-South Dakota	South Dakota	TBD	McNeal	0.3805	0.0069	0	0	1	D	R	1	0
-Tennessee	Tennessee	TBD	Hagerty	0.3841	0.0061	0	0	1	D	R	1	0
-Texas	Texas	Talarico	Cornyn	0.483	0.2393	0	0	1	D	R	1	0
-Virginia	Virginia	Warner	TBD	0.5886	0.9719	0	1	0	D	R	0	1
-West Virginia	West Virginia	TBD	Capito	0.3137	0.0001	0	0	1	D	R	1	0
-Wyoming	Wyoming	TBD	TBD	0.3254	0.0007	0	0	0	D	R	1	1
-Florida	Florida Special	TBD	TBD	0.4879	0.4091	0	0	0	D	R	1	1
-Ohio	Ohio Special	TBD	Husted	0.4991	0.4932	0	0	0	D	R	1	1
+Alabama	Alabama	TBD	TBD	0.4038	0.0349	0	0	0	D	R	1	1
+Alaska	Alaska	TBD	Sullivan	0.4621	0.2187	0	0	1	D	R	1	0
+Arkansas	Arkansas	Shoffner	Cotton	0.3871	0.0191	0	0	1	D	R	1	1
+Colorado	Colorado	Hickenlooper	TBD	0.6036	0.9849	0	1	0	D	R	0	1
+Delaware	Delaware	Coons	TBD	0.6338	0.9969	0	1	0	D	R	0	1
+Georgia	Georgia	Ossoff	TBD	0.5413	0.8084	0	1	0	D	R	0	1
+Idaho	Idaho	TBD	Risch	0.3582	0.0015	0	0	1	D	R	1	0
+Illinois	Illinois	TBD	TBD	0.6115	0.9837	0	0	0	D	R	1	1
+Iowa	Iowa	TBD	TBD	0.4924	0.4437	0	0	0	D	R	1	1
+Kansas	Kansas	TBD	Marshall	0.4577	0.1803	0	0	1	D	R	1	0
+Kentucky	Kentucky	Booker	TBD	0.4023	0.034	0	0	0	D	R	0	1
+Louisiana	Louisiana	TBD	Cassidy	0.4092	0.0266	0	0	1	D	R	1	0
+Maine	Maine	TBD	Collins	0.5305	0.7379	1	0	1	D	R	1	0
+Massachusetts	Massachusetts	Markey	TBD	0.6887	1	0	1	0	D	R	0	1
+Michigan	Michigan	TBD	TBD	0.5484	0.8205	0	0	0	D	R	1	1
+Minnesota	Minnesota	TBD	TBD	0.5792	0.9333	0	0	0	D	R	1	1
+Mississippi	Mississippi	TBD	Hyde-Smith	0.4442	0.1195	0	0	1	D	R	1	0
+Montana	Montana	TBD	Daines	0.451	0.1547	0	0	1	D	R	1	0
+Nebraska	Nebraska	Osborn	Ricketts	0.4732	0.1396	0	0	1	I	R	1	0
+New Hampshire	New Hampshire	TBD	TBD	0.571	0.9035	0	0	0	D	R	1	1
+New Jersey	New Jersey	Booker	TBD	0.5957	0.9786	0	1	0	D	R	0	1
+New Mexico	New Mexico	Luj&#225;n	TBD	0.5777	0.944	0	1	0	D	R	0	1
+North Carolina	North Carolina	Cooper	Whatley	0.5653	0.9976	1	0	0	D	R	1	1
+Oklahoma	Oklahoma	TBD	Mullin	0.3788	0.0054	0	0	1	D	R	1	0
+Oregon	Oregon	Merkley	TBD	0.6249	0.9957	0	1	0	D	R	0	1
+Rhode Island	Rhode Island	Reed	TBD	0.6542	0.9991	0	1	0	D	R	0	1
+South Carolina	South Carolina	TBD	Graham	0.4565	0.1766	0	0	1	D	R	1	0
+South Dakota	South Dakota	TBD	McNeal	0.3801	0.0067	0	0	1	D	R	1	0
+Tennessee	Tennessee	TBD	Hagerty	0.3836	0.0059	0	0	1	D	R	1	0
+Texas	Texas	Talarico	Cornyn	0.4827	0.2368	0	0	1	D	R	1	0
+Virginia	Virginia	Warner	TBD	0.5881	0.9712	0	1	0	D	R	0	1
+West Virginia	West Virginia	TBD	Capito	0.3133	0.0001	0	0	1	D	R	1	0
+Wyoming	Wyoming	TBD	TBD	0.325	0.0007	0	0	0	D	R	1	1
+Florida	Florida Special	TBD	TBD	0.4875	0.4064	0	0	0	D	R	1	1
+Ohio	Ohio Special	TBD	Husted	0.4987	0.4906	0	0	0	D	R	1	1
