@@ -1,37 +1,37 @@
 GeographyName	ElectionName	DemCandidate	RepCandidate	Estimate	Chance	Flip	DemIncumbent	RepIncumbent	DemParty	RepParty	DemConfirmed	RepConfirmed
-Alabama	Alabama	TBD	TBD	0.3873	0.1312	0	0	0	D	R	1	1
-Alaska	Alaska	TBD	TBD	0.4725	0.3931	0	0	0	D	R	1	1
-Arizona	Arizona	Hobbs	TBD	0.5567	0.7319	0	1	0	D	R	0	1
+Alabama	Alabama	TBD	TBD	0.3869	0.1303	0	0	0	D	R	1	1
+Alaska	Alaska	TBD	TBD	0.4721	0.3916	0	0	0	D	R	1	1
+Arizona	Arizona	Hobbs	TBD	0.5558	0.7285	0	1	0	D	R	0	1
 Arkansas	Arkansas	Love	Sanders	0.3713	0.0817	0	0	1	D	R	1	1
-California	California	TBD	TBD	0.6442	0.9252	0	0	0	D	R	1	1
-Colorado	Colorado	TBD	TBD	0.5985	0.8369	0	0	0	D	R	1	1
-Connecticut	Connecticut	Lamont	TBD	0.6327	0.9257	0	1	0	D	R	0	1
-Florida	Florida	TBD	TBD	0.4742	0.3985	0	0	0	D	R	1	1
-Georgia	Georgia	TBD	TBD	0.5306	0.6198	1	0	0	D	R	1	1
-Hawaii	Hawaii	Green	TBD	0.6899	0.9794	0	1	0	D	R	0	1
+California	California	TBD	TBD	0.6438	0.9245	0	0	0	D	R	1	1
+Colorado	Colorado	TBD	TBD	0.598	0.8358	0	0	0	D	R	1	1
+Connecticut	Connecticut	Lamont	TBD	0.6317	0.9242	0	1	0	D	R	0	1
+Florida	Florida	TBD	TBD	0.4737	0.3965	0	0	0	D	R	1	1
+Georgia	Georgia	TBD	TBD	0.5302	0.6183	1	0	0	D	R	1	1
+Hawaii	Hawaii	Green	TBD	0.6891	0.9789	0	1	0	D	R	0	1
 Idaho	Idaho	TBD	Little	0.2891	0.0115	0	0	1	D	R	1	0
-Illinois	Illinois	Pritzker	Bailey	0.6253	0.9532	0	1	0	D	R	1	1
-Iowa	Iowa	TBD	TBD	0.4746	0.4007	0	0	0	D	R	1	1
-Kansas	Kansas	TBD	TBD	0.4602	0.3458	1	0	0	D	R	1	1
-Maine	Maine	TBD	TBD	0.5771	0.7775	0	0	0	D	R	1	1
-Maryland	Maryland	Moore	TBD	0.7256	0.9928	0	1	0	D	R	0	1
-Massachusetts	Massachusetts	Healey	TBD	0.7056	0.9874	0	1	0	D	R	0	1
-Michigan	Michigan	TBD	TBD	0.5324	0.6271	0	0	0	D	R	1	1
-Minnesota	Minnesota	TBD	TBD	0.5629	0.7352	0	0	0	D	R	1	1
-Nebraska	Nebraska	TBD	Pillen	0.4021	0.1437	0	0	1	D	R	1	0
+Illinois	Illinois	Pritzker	Bailey	0.6243	0.9519	0	1	0	D	R	1	1
+Iowa	Iowa	TBD	TBD	0.4741	0.3988	0	0	0	D	R	1	1
+Kansas	Kansas	TBD	TBD	0.4598	0.3442	1	0	0	D	R	1	1
+Maine	Maine	TBD	TBD	0.5765	0.7757	0	0	0	D	R	1	1
+Maryland	Maryland	Moore	TBD	0.7247	0.9926	0	1	0	D	R	0	1
+Massachusetts	Massachusetts	Healey	TBD	0.7047	0.9871	0	1	0	D	R	0	1
+Michigan	Michigan	TBD	TBD	0.5319	0.6252	0	0	0	D	R	1	1
+Minnesota	Minnesota	TBD	TBD	0.5625	0.7336	0	0	0	D	R	1	1
+Nebraska	Nebraska	TBD	Pillen	0.4021	0.1436	0	0	1	D	R	1	0
 Nevada	Nevada	TBD	Lombardo	0.5048	0.5206	1	0	1	D	R	1	0
-New Hampshire	New Hampshire	TBD	Ayotte	0.4915	0.4637	0	0	1	D	R	1	0
-New Mexico	New Mexico	TBD	TBD	0.5734	0.7664	0	0	0	D	R	1	1
-New York	New York	Hochul	TBD	0.606	0.8767	0	1	0	D	R	0	1
-Ohio	Ohio	Acton	TBD	0.4824	0.4305	0	0	0	D	R	1	1
-Oklahoma	Oklahoma	TBD	TBD	0.3658	0.0916	0	0	0	D	R	1	1
-Oregon	Oregon	Kotek	TBD	0.6013	0.865	0	1	0	D	R	0	1
-Pennsylvania	Pennsylvania	Shapiro	Garrity	0.6193	0.9533	0	1	0	D	R	1	1
-Rhode Island	Rhode Island	McKee	TBD	0.6517	0.9494	0	1	0	D	R	0	1
-South Carolina	South Carolina	TBD	TBD	0.4507	0.3119	0	0	0	D	R	1	1
-South Dakota	South Dakota	TBD	Rhoden	0.3767	0.0929	0	0	1	D	R	1	0
-Tennessee	Tennessee	TBD	TBD	0.3902	0.1366	0	0	0	D	R	1	1
-Texas	Texas	Hinojosa	Abbott	0.4605	0.2903	0	0	1	D	R	1	1
-Vermont	Vermont	TBD	Scott	0.3968	0.1343	0	0	1	D	R	1	0
-Wisconsin	Wisconsin	TBD	TBD	0.5364	0.6418	0	0	0	D	R	1	1
-Wyoming	Wyoming	TBD	TBD	0.3087	0.0296	0	0	0	D	R	1	1
+New Hampshire	New Hampshire	TBD	Ayotte	0.4914	0.4632	0	0	1	D	R	1	0
+New Mexico	New Mexico	TBD	TBD	0.5729	0.7649	0	0	0	D	R	1	1
+New York	New York	Hochul	TBD	0.605	0.8747	0	1	0	D	R	0	1
+Ohio	Ohio	Acton	TBD	0.4819	0.4286	0	0	0	D	R	1	1
+Oklahoma	Oklahoma	TBD	TBD	0.3655	0.091	0	0	0	D	R	1	1
+Oregon	Oregon	Kotek	TBD	0.6003	0.8628	0	1	0	D	R	0	1
+Pennsylvania	Pennsylvania	Shapiro	Garrity	0.6186	0.9524	0	1	0	D	R	1	1
+Rhode Island	Rhode Island	McKee	TBD	0.6508	0.9484	0	1	0	D	R	0	1
+South Carolina	South Carolina	TBD	TBD	0.4502	0.3101	0	0	0	D	R	1	1
+South Dakota	South Dakota	TBD	Rhoden	0.3766	0.0927	0	0	1	D	R	1	0
+Tennessee	Tennessee	TBD	TBD	0.3897	0.1356	0	0	0	D	R	1	1
+Texas	Texas	Hinojosa	Abbott	0.4604	0.2898	0	0	1	D	R	1	1
+Vermont	Vermont	TBD	Scott	0.3966	0.1339	0	0	1	D	R	1	0
+Wisconsin	Wisconsin	TBD	TBD	0.5359	0.6399	0	0	0	D	R	1	1
+Wyoming	Wyoming	TBD	TBD	0.3082	0.0293	0	0	0	D	R	1	1
